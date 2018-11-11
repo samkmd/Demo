@@ -5,7 +5,7 @@ import com.patterns.art.Shape;
 public class Drawing {
 
 	public Drawing() {
-		// TODO Auto-generated constructor stub
+		System.out.println();
 	}
 	
 	
